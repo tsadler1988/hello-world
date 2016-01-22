@@ -1,5 +1,5 @@
 {
-  "name": "hello-world",
+  "name": "toms-hello-world",
   "packaging": {
     "type":
   "nodejs_service"
